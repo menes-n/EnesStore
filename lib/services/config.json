@@ -1,0 +1,100 @@
+{
+  "name": "Eicons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "53d20a593b610c9cc648f101ebcdc73f",
+      "css": "add_shopping_cart",
+      "code": 59392,
+      "src": "material"
+    },
+    {
+      "uid": "d2fb362ab2a935c30da2afd66a9dc1b7",
+      "css": "shopping_cart",
+      "code": 59393,
+      "src": "material"
+    },
+    {
+      "uid": "cd7c413a8d3b5744e558253329124516",
+      "css": "menu",
+      "code": 59394,
+      "src": "material"
+    },
+    {
+      "uid": "4dffe5e59760395857c5e7cbf7e2d20a",
+      "css": "search",
+      "code": 59395,
+      "src": "material"
+    },
+    {
+      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
+      "css": "user",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b2270284ed38dffa576900a69b320faa",
+      "css": "settings",
+      "code": 59397,
+      "src": "material"
+    },
+    {
+      "uid": "969c05f502a83a6a3ef968f5d425c748",
+      "css": "wb_sunny",
+      "code": 59398,
+      "src": "material"
+    },
+    {
+      "uid": "87f4758ee5aa9b99e6a61d8460413fee",
+      "css": "language",
+      "code": 59399,
+      "src": "material"
+    },
+    {
+      "uid": "bb949f02bd55a4b012c03a9b8651f1b7",
+      "css": "favorite",
+      "code": 59400,
+      "src": "material"
+    },
+    {
+      "uid": "c2152732d525871cf35345955854f711",
+      "css": "moon-inv",
+      "code": 59402,
+      "src": "iconic"
+    },
+    {
+      "uid": "ca150bc10f3a816413c7687c59dbe118",
+      "css": "home",
+      "code": 59403,
+      "src": "material"
+    },
+    {
+      "uid": "1c4068ed75209e21af36017df8871802",
+      "css": "down-arrow",
+      "code": 59404,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "555ef8c86832e686fef85f7af2eb7cde",
+      "css": "left-arrow",
+      "code": 59405,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ad6b3fbb5324abe71a9c0b6609cbb9f1",
+      "css": "right-arrow",
+      "code": 59406,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "95376bf082bfec6ce06ea1cda7bd7ead",
+      "css": "up-arrow",
+      "code": 59407,
+      "src": "fontawesome"
+    }
+  ]
+}
