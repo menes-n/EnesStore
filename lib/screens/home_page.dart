@@ -243,7 +243,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: const SizedBox(
                   width: 40,
                   height: 40,
-                  child: Icon(Eicons.menu, color: Colors.white, size: 35),
+                  child: Icon(Eicons.menu, color: Colors.black, size: 35),
                 ),
               ),
             ),
